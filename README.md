@@ -10,7 +10,8 @@
 
 
 ### extras 
-plugin para el slider [bxslider](https://bxslider.com/)
+plugin para el slider: 
+[bxslider](https://bxslider.com/)
 
 ## este es el estado en el que se encuentra 
 
