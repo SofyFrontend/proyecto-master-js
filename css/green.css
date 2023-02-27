@@ -1,0 +1,17 @@
+:root{
+    --verde: #286b49;
+    --gris: #202b26;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(../img/hojas.jpg);
+    background-attachment:fixed;
+}
+h1,
+article span{
+    background-color: var(--verde);
+}
+nav,
+footer{
+    background-color: var(--gris);
+}

@@ -1,0 +1,17 @@
+:root{
+    --azul: #1f87c4;
+    --gris: #202b26;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(../img/cielo.jpg);
+    background-attachment:fixed;
+}
+h1,
+article span{
+    background-color: var(--azul);
+}
+nav,
+footer{
+    background-color: var(--gris);
+}
